@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+chromadb
+sentence-transformers
+requests
+python-dotenv
+torch
